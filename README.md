@@ -36,6 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tylerlight071&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tylerlight071&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
