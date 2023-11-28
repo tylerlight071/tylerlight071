@@ -1,7 +1,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-lightwood-40391728b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[![Discord](https://img.shields.io/discord/1175860083893223456)](https://discord.gg/BMkjk9SHVH)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
