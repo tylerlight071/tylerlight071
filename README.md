@@ -39,7 +39,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tylerlight071&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
