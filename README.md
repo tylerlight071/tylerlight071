@@ -18,6 +18,8 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -32,9 +34,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tylerlight071&theme=darcula&hide_border=false)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 Profile Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tylerlight071)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📚 Random Quote:
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
