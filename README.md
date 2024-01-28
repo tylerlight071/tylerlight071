@@ -38,9 +38,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerlight071&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Profile Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tylerlight071)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📚 Random Quote:
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
